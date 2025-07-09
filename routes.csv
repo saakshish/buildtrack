@@ -1,0 +1,6 @@
+From,To,Distance
+Warehouse,SiteA,4
+Warehouse,SiteB,6
+SiteA,SiteC,2
+SiteB,SiteC,1
+SiteC,SiteD,3

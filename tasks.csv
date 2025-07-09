@@ -1,0 +1,5 @@
+Task,DependsOn
+Foundation,
+Walls,Foundation
+Roof,Walls
+Painting,Roof

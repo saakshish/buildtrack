@@ -1,6 +1,6 @@
 \# 🏗️ BuildTrack – Smart Construction Scheduler \& Optimizer
 
-\*\*BuildTrack\*\* is an intuitive Streamlit-based web application designed to simplify construction management. It offers powerful tools for scheduling tasks based on dependencies, optimizing delivery routes, and predicting delay risks using machine learning. Built with construction teams and site managers in mind, it enables smart, data-driven decisions on the fly.
+\*\*BuildTrack\*\* is an intuitive Streamlit-based web application designed to simplify construction management. It offers powerful tools for scheduling tasks based on dependencies, optimizing delivery routes, and predicting delay risks using machine learning. Built with construction teams and site managers in mind, it enables smart, data-driven decisions.
 
 
 \## 🚀 Features

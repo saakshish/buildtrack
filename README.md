@@ -6,21 +6,33 @@
 \## 🚀 Features
 
 \### 📋 Task Dependency Scheduler
+
 \- Upload a `.csv` file containing task names and their dependencies.
+
 \- Visualize all dependencies as edge pairs.
+
 \- Automatically detect circular dependencies.
+
 \- Get the recommended execution order using topological sorting.
 
 \### 🚚 Delivery Route Optimizer
+
 \- Upload a `.csv` route file containing source, destination, and distance.
+
 \- Select a source node (e.g., warehouse) and get:
+
 &nbsp; - Shortest distances to all reachable nodes.
+
 &nbsp; - Path breakdown using Dijkstra’s algorithm.
 
 \### ⏳ Delay Risk Predictor
+
 \- Predict whether a task is at risk of being delayed based on:
+
 &nbsp; - Task type (Critical, Medium, Finishing)
+
 &nbsp; - Number of available resources
+
 &nbsp; - Estimated duration
 
 \- Built using a Random Forest classifier trained on synthetic data.

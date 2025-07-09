@@ -52,9 +52,8 @@
 
 
 
-| File                     | Description                                                   
+| File                | Description                                                   
 
-|--------------------------|---------------------------------------------------------------
 
 | `buildtrack.py`          | Main Streamlit application with all three modules integrated. 
 

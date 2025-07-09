@@ -52,19 +52,21 @@
 
 
 
-| File                   | Description                                                   
+| File                     | Description                                                   
 
-|------------------------|---------------------------------------------------------------
+|--------------------------|---------------------------------------------------------------
 
-| `buildtrack.py`        | Main Streamlit application with all three modules integrated. 
+| `buildtrack.py`          | Main Streamlit application with all three modules integrated. 
 
-| `train\_model.py`       | Script to train and export the delay risk prediction model.    
+| `train\_model.py`        | Script to train and export the delay risk prediction model.    
 
-| `delay\_risk\_model.pkl` | Pre-trained Random Forest model used for predicting task delays. | `requirements.txt`     | Python dependencies to run the app.                            
+| `delay\_risk\_model.pkl` | Pre-trained Random Forest model used for predicting task delays. 
 
-| `tasks.csv`            | Sample task list with dependencies. 
+|`requirements.txt`        | Python dependencies to run the app.                            
 
-| `routes.csv`           | Sample graph data for delivery route optimization. 
+| `tasks.csv`              | Sample task list with dependencies. 
+
+| `routes.csv`             | Sample graph data for delivery route optimization. 
 
 
 

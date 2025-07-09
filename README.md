@@ -69,10 +69,15 @@ streamlit run buildtrack.py
 🧠 Model Details (Delay Risk Predictor)
 
 Algorithm: Random Forest Classifier
+
 Input Features-
+
 TaskType: Encoded (Critical = 0, Finishing = 1, Medium = 2)
+
 Resources: Integer count
+
 Duration: Estimated days
+
 Target: Delayed (0 = On Time, 1 = Delay)
 
 
@@ -82,11 +87,17 @@ python train\_model.py
 ```
 
 🛠️ Tech Stack-
+
 Python
+
 Streamlit
+
 pandas
+
 networkx
+
 scikit-learn
+
 joblib
 
 

@@ -15,6 +15,7 @@
 
 \- Get the recommended execution order using topological sorting.
 
+
 \### 🚚 Delivery Route Optimizer
 
 \- Upload a `.csv` route file containing source, destination, and distance.
@@ -24,6 +25,7 @@
 &nbsp; - Shortest distances to all reachable nodes.
 
 &nbsp; - Path breakdown using Dijkstra’s algorithm.
+
 
 \### ⏳ Delay Risk Predictor
 
@@ -62,7 +64,7 @@ cd buildtrack
 pip install -r requirements.txt
 
 streamlit run buildtrack.py
-
+```
 
 🧠 Model Details (Delay Risk Predictor)
 
@@ -77,6 +79,7 @@ Target: Delayed (0 = On Time, 1 = Delay)
 To retrain:
 ```bash
 python train\_model.py
+```
 
 🛠️ Tech Stack-
 Python
